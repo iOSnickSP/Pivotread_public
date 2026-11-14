@@ -6,4 +6,4 @@ Public-facing material for the **Pivotread** iOS app (RSVP speed reader), meant 
 - [App Store metadata draft](app-store-metadata.md) (name, description, keywords — EN + RU)
 - `screenshots/en/`, `screenshots/ru/` — App Store screenshots, 6.9″
 
-Support: iosncik@yandex.ru
+Support: iosnick@yandex.ru
